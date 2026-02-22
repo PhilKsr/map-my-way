@@ -1,0 +1,4 @@
+#!/usr/bin/env sh
+pnpm lint:fix
+pnpm format
+pnpm type-check
